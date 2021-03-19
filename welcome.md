@@ -7,7 +7,8 @@ Let's learn and work together to help our fellow man facing cancer!
 LinkedIn: linkedin.com/in/franztapiac/
 
 Learning:
-- SQL (March 2021, Coursera: Databases and SQL for Data Science with Python)
+- SQL (Coursera: Databases and SQL for Data Science with Python)
+- R (Pirple.com)
 
 Current skills:
 - C++
